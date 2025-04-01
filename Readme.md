@@ -2,17 +2,11 @@
 
 Demo Video
 
-[Watch Demo Video](https://drive.google.com/file/d/1aBVJk9fFoOlurT_-i5QU47HviAwlYXPi/view?usp=drivesdk)
+[Recording(Click on me)](https://drive.google.com/file/d/1aBVJk9fFoOlurT_-i5QU47HviAwlYXPi/view?usp=drivesdk)
 
-### Screen Shots
+### Screen Shots(Click on the link)
 
-![Screen Shot](./src/assets/Screenshot-1.jpg)
-
-![Screen shot](./src/assets/sccreenshot-2.jpg)
-
-![screen shot](./src/assets/screenshot-3.jpg)
-
-![screen shot](./src/assets/screenshot-4.jpg)
+[Screesshots](https://drive.google.com/drive/folders/1aEk75-laV0FKUBs8eC8_E1qw9RQjEG2I)
 
 
 ```bash
