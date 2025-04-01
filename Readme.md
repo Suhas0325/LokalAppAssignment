@@ -6,7 +6,7 @@ Demo Video
 
 ### Screen Shots(Click on the link)
 
-[Screesshots](https://drive.google.com/drive/folders/1aEk75-laV0FKUBs8eC8_E1qw9RQjEG2I)
+[Screenshots](https://drive.google.com/drive/folders/1aEk75-laV0FKUBs8eC8_E1qw9RQjEG2I)
 
 
 ```bash
